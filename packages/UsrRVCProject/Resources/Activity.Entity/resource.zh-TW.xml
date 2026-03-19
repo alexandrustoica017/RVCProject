@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="合同" />
+			<Item Name="Columns.Document.Caption" Value="文件" />
+			<Item Name="Columns.Invoice.Caption" Value="发票" />
+			<Item Name="Columns.Order.Caption" Value="顺序" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d1cff54-854e-43c3-9f4a-e441449eb99a",
+    "Name": "UsrRVCProject_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1747179980000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "RVC Project form page (Business rules)",
+    "DependsOn": []
+  }
+}

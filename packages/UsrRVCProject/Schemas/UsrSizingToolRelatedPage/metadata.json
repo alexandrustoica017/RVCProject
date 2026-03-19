@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "98c5bdec-50c8-448b-8b75-54514dc94215",
+      "A2": "UsrSizingToolRelatedPage",
+      "A5": "a3f22ff9-e914-4ab8-a630-716b0bf31283",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "93f6f0a5-ee67-487a-adc1-164ac9169734",
+      "B8": "8.2.2.1870",
+      "AD1": "a0a14cef-67f6-41d5-ada7-18d25eda4bc7",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "4b691eee-debd-09c6-8a96-329be9acb637",
+      "PageSchemaUId": "6124f14d-fbe1-4e99-922c-7249d138fb06",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

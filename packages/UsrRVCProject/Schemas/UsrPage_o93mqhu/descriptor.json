@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eae38bc9-946d-4a29-a91d-5cac4e3781e1",
+    "Name": "UsrPage_o93mqhu",
+    "ModifiedOnUtc": "\/Date(1772653437000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "LoadTuningEffort modal page",
+    "DependsOn": []
+  }
+}

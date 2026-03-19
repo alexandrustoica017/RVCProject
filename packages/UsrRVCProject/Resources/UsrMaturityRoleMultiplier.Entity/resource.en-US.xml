@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MaturityRoleMultiplier" />
+			<Item Name="Columns.UsrMaturity.Caption" Value="Maturity" />
+			<Item Name="Columns.UsrMultiplierBusiness.Caption" Value="MultiplierBusiness" />
+			<Item Name="Columns.UsrMultiplierBusiness.Description" Value="Multiplier for Business" />
+			<Item Name="Columns.UsrMultiplierExpert.Caption" Value="ExpertMultiplier" />
+			<Item Name="Columns.UsrMultiplierExpert.Description" Value="Multiplier for Expert" />
+			<Item Name="Columns.UsrMultiplierJunior.Caption" Value="MultiplierJunior" />
+			<Item Name="Columns.UsrMultiplierJunior.Description" Value="Multiplier for Junior" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+		</Items>
+	</Group>
+</Resources>

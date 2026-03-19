@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read  Loaded Tuning" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Maturity Multiplier" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.UsrMaturity.Caption" Value="Maturity" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.UsrMultiplierBusiness.Caption" Value="MultiplierBusiness" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.UsrMultiplierExpert.Caption" Value="ExpertMultiplier" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.UsrMultiplierJunior.Caption" Value="MultiplierJunior" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.UsrProject.Caption" Value="Project" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Function result (Date/Time)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Function result (Decimal)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Function result (Integer)" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Unique identifier of record" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Update Tuning Role" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CompletedIterationsCount.Caption" Value="Number of completed instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Caption" Value="Input record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Complexity.Caption" Value="Complexity" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Complexity.DisplayValue" Value="[#Read  Loaded Tuning.First item of resulting collection.Complexity#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Complexity.Sys_Description" Value="Complexity" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.DisplayValue" Value="[#Maturity Multiplier.Collection of records#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Effort.Caption" Value="Effort" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Effort.DisplayValue" Value="[#Read  Loaded Tuning.First item of resulting collection.Business#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Effort.Sys_Description" Value="Effort" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ItemType.Caption" Value="ItemType" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ItemType.DisplayValue" Value="[#Read  Loaded Tuning.First item of resulting collection.ItemType#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ItemType.Sys_Description" Value="ItemType" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Maturity.Caption" Value="Maturity" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Maturity.DisplayValue" Value="[#Maturity Multiplier.Collection of records:Maturity#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Maturity.Sys_Description" Value="Maturity" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.MaturityMultiplier.Caption" Value="MaturityMultiplier" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.MaturityMultiplier.DisplayValue" Value="[#Maturity Multiplier.Collection of records:MultiplierBusiness#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.MaturityMultiplier.Sys_Description" Value="MaturityMultiplier" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Project.DisplayValue" Value="[#Read  Loaded Tuning.First item of resulting collection.Project#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Project.Sys_Description" Value="Project" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Role.Caption" Value="Role" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Role.DisplayValue" Value="[#Lookup.Sizing Role.Business.2dc85873-9fa9-4b3b-b5ba-d36cc747674f#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Role.Sys_Description" Value="Role" />
+			<Item Name="BaseElements.SubProcess1.Parameters.OutputRecordCollection.Caption" Value="Output record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TerminatedIterationsCount.Caption" Value="Number of terminated instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TotalIterationsCount.Caption" Value="Total number of instances" />
+			<Item Name="Caption" Value="Update Tuning" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

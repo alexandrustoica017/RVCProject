@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Hợp đồng" />
+			<Item Name="Columns.Document.Caption" Value="Tài liệu" />
+			<Item Name="Columns.Invoice.Caption" Value="Hóa đơn" />
+			<Item Name="Columns.Order.Caption" Value="Yêu cầu" />
+		</Items>
+	</Group>
+</Resources>

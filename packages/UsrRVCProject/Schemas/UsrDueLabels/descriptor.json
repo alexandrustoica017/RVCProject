@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1dd2e628-75de-4be5-897f-54ec5d6267a5",
+    "Name": "UsrDueLabels",
+    "ModifiedOnUtc": "\/Date(1753993603000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Change Due date labels",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="LoadTuningEffort" />
+			<Item Name="Columns.UsrBusiness.Caption" Value="Business" />
+			<Item Name="Columns.UsrBusiness.Description" Value="Business Analyst" />
+			<Item Name="Columns.UsrComplexity.Caption" Value="Complexity" />
+			<Item Name="Columns.UsrComplexity.Description" Value="Complexity" />
+			<Item Name="Columns.UsrExpert.Caption" Value="Expert" />
+			<Item Name="Columns.UsrExpert.Description" Value="Expert Developer" />
+			<Item Name="Columns.UsrItemType.Caption" Value="ItemType" />
+			<Item Name="Columns.UsrJunior.Caption" Value="Junior " />
+			<Item Name="Columns.UsrJunior.Description" Value="Junior  Developer" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+			<Item Name="Description" Value="LoadTuningEffort" />
+		</Items>
+	</Group>
+</Resources>

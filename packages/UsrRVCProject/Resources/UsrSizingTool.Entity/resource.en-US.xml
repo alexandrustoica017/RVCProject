@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sizing Tool" />
+			<Item Name="Columns.UsrAddNotes.Caption" Value="Additional Notes" />
+			<Item Name="Columns.UsrComplexity.Caption" Value="Complexity" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Short Description" />
+			<Item Name="Columns.UsrEpic.Caption" Value="Epic" />
+			<Item Name="Columns.UsrEpic.Description" Value="Epic" />
+			<Item Name="Columns.UsrEpicName.Caption" Value="Item Name" />
+			<Item Name="Columns.UsrEstimatedTime.Caption" Value="Estimated Time" />
+			<Item Name="Columns.UsrItemType.Caption" Value="Item Type" />
+			<Item Name="Columns.UsrIteration.Caption" Value="Iteration" />
+			<Item Name="Columns.UsrMaturity.Caption" Value="Maturity" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+		</Items>
+	</Group>
+</Resources>

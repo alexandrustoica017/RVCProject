@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b6c941bd-4730-43de-8a39-0be263eb94b1",
+    "Name": "UsrCalculateEffortSize",
+    "ModifiedOnUtc": "\/Date(1755189509000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate Effort Size",
+    "DependsOn": []
+  }
+}

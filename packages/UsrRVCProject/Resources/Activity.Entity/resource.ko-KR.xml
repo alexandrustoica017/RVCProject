@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="계약" />
+			<Item Name="Columns.Document.Caption" Value="문서" />
+			<Item Name="Columns.Invoice.Caption" Value="청구서" />
+			<Item Name="Columns.Order.Caption" Value="주문" />
+		</Items>
+	</Group>
+</Resources>

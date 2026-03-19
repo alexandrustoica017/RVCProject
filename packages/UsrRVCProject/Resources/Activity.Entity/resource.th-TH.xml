@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="สัญญา" />
+			<Item Name="Columns.Document.Caption" Value="เอกสาร" />
+			<Item Name="Columns.Invoice.Caption" Value="ใบแจ้งหนี้" />
+			<Item Name="Columns.Order.Caption" Value="คำสั่งซื้อ" />
+		</Items>
+	</Group>
+</Resources>

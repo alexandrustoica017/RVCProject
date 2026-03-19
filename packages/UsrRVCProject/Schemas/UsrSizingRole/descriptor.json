@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "729d1b5f-bf36-4b25-8c0e-7fbd0adcdf51",
+    "Name": "UsrSizingRole",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sizing Role",
+    "DependsOn": []
+  }
+}

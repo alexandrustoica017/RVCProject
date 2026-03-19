@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Contract" />
+			<Item Name="Columns.Document.Caption" Value="Document" />
+			<Item Name="Columns.Invoice.Caption" Value="Invoice" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Columns.Order.Caption" Value="Order" />
+			<Item Name="Columns.UsrUsrIssue.Caption" Value="Issue" />
+			<Item Name="Columns.UsrUsrRVCProject.Caption" Value="RVC Project" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_6f67fb985b114a3890c74051e36847c6.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_6f67fb985b114a3890c74051e36847c6.Lanes.Lane_a0b9b717bde246b8bc8ddfd2f4bb3cb3.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Lanes.Lane_5f6cb908f09b453d8f21d5590e55940b.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

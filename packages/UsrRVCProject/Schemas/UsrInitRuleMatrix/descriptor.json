@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "382f2d2f-6f98-44c1-9190-b0041f8bc751",
+    "Name": "UsrInitRuleMatrix",
+    "ModifiedOnUtc": "\/Date(1766430344000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Init Tuning Matrix",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="חוזה" />
+			<Item Name="Columns.Document.Caption" Value="מסמך" />
+			<Item Name="Columns.Invoice.Caption" Value="חשבונית" />
+			<Item Name="Columns.Order.Caption" Value="הזמנה" />
+		</Items>
+	</Group>
+</Resources>

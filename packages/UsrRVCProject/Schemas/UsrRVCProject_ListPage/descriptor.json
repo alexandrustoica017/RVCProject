@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "beb9ad4f-637d-4c00-9949-05051fc53eb1",
+    "Name": "UsrRVCProject_ListPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RVC Project list page",
+    "DependsOn": []
+  }
+}

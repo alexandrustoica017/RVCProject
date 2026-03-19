@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b5334a21-3497-4239-ab93-cae5c921ae00",
+    "Name": "UsrLoadTuningEffortRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772651478000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "LoadTuningEffort (Page settings)",
+    "DependsOn": []
+  }
+}

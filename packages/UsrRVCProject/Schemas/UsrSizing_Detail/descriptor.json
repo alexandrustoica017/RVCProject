@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2edbba36-bfd6-4403-a08a-f3dc265a77f3",
+    "Name": "UsrSizing_Detail",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sizing detail",
+    "DependsOn": []
+  }
+}

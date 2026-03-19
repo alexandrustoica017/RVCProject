@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1fd49dc-46b7-448f-b51c-04e61b25aab0",
+    "Name": "UsrSetCommitedAndActualTime",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Set Commited and Actual Time",
+    "DependsOn": []
+  }
+}

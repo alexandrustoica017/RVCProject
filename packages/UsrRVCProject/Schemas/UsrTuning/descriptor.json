@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d71e305-6012-40de-a1b4-18fd98f9b813",
+    "Name": "UsrTuning",
+    "ModifiedOnUtc": "\/Date(1772836185000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Tuning Page",
+    "DependsOn": []
+  }
+}

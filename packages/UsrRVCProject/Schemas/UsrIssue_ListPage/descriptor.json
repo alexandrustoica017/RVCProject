@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "97a478c3-bac5-4fb1-a625-10b3bc1bf679",
+    "Name": "UsrIssue_ListPage",
+    "ModifiedOnUtc": "\/Date(1746548538000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Issue List Page",
+    "DependsOn": []
+  }
+}

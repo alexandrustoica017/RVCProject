@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b0cbee5-b6a9-4524-a644-72196bd111c3",
+    "Name": "UsrCreateTasks",
+    "ModifiedOnUtc": "\/Date(1747692811000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create Tasks",
+    "DependsOn": []
+  }
+}

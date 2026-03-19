@@ -1,0 +1,313 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "3d1b84b2-cb3f-4321-8085-ddabfb57b012",
+      "A2": "UsrRVCProjectBusinessRule",
+      "A5": "a3f22ff9-e914-4ab8-a630-716b0bf31283",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "93f6f0a5-ee67-487a-adc1-164ac9169734",
+      "B8": "8.2.2.1870",
+      "AD1": "09cc4143-9305-4986-b11a-ef08d7f3170f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": [
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "0af725d4-d61e-9c15-0d3a-bb4e7f649d36",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "17c24900-3253-2e87-2baf-27375bc088fe",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "7d3e0564-866b-c675-5724-3e1be4ba648e",
+                  "BGC1": 1,
+                  "BGC2": []
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "7fa304b1-810a-a0ee-b9ba-61c7a0a4e612",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "90b008f8-e74c-c0a8-d3af-dc8b8c602bdb",
+                      "BRX1": "UsrTestManager"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "b3984ca7-b11c-266a-135f-123f320ab078",
+                      "BVE1": "{\"items\":{\"682459ff-aeb9-4979-a3e9-3196a60688a3\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysAdminUnit:Contact].Id\",\"subFilters\":{\"items\":{\"6d88f3b3-1176-4c3f-ab6f-1c4ea80b8687\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"e1ba6c6d-b59b-4650-83f8-5eff898e8352\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Testing\",\"Id\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"value\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"displayValue\":\"Testing\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"ec933d68-d979-47a1-891e-5b5b0392efc7\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"e1ba6c6d-b59b-4650-83f8-5eff898e8352\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Testing\",\"Id\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"value\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"displayValue\":\"Testing\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"ec933d68-d979-47a1-891e-5b5b0392efc7\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"474b50f6-6b3c-46c3-9d70-cd90f1b6899e\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"6d88f3b3-1176-4c3f-ab6f-1c4ea80b8687\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"e1ba6c6d-b59b-4650-83f8-5eff898e8352\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Testing\",\"Id\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"value\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"displayValue\":\"Testing\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"ec933d68-d979-47a1-891e-5b5b0392efc7\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"e1ba6c6d-b59b-4650-83f8-5eff898e8352\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Testing\",\"Id\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"value\":\"1e7ec581-bd6f-428b-85e7-4bd9951d24c7\",\"displayValue\":\"Testing\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"ec933d68-d979-47a1-891e-5b5b0392efc7\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"474b50f6-6b3c-46c3-9d70-cd90f1b6899e\"}}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Contact\"}"
+                    }
+                  },
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "2d2eeaaf-a5ff-5c9b-fcf3-be73588a3553",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "a4c17d72-9087-e942-6f54-7c426886a444",
+                      "BRX1": "UsrLeadBA"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "c6a0f4fd-7521-e92b-3c9a-5fa1e768ff9e",
+                      "BVE1": "{\"items\":{\"5eb63d12-f583-4ad8-9834-edc33a6c7342\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysAdminUnit:Contact].Id\",\"subFilters\":{\"items\":{\"12bbd459-671a-4fbe-b5e9-3f250130951f\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"88226f55-6164-4539-8eb2-faf3d81c48a9\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Analyst\",\"Id\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"value\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"displayValue\":\"Analyst\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"693fe530-cba5-4620-841a-27efd6b94286\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"88226f55-6164-4539-8eb2-faf3d81c48a9\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Analyst\",\"Id\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"value\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"displayValue\":\"Analyst\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"693fe530-cba5-4620-841a-27efd6b94286\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"0402d69b-8783-47ba-8d05-66562fa16a2e\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"12bbd459-671a-4fbe-b5e9-3f250130951f\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"88226f55-6164-4539-8eb2-faf3d81c48a9\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Analyst\",\"Id\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"value\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"displayValue\":\"Analyst\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"693fe530-cba5-4620-841a-27efd6b94286\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"88226f55-6164-4539-8eb2-faf3d81c48a9\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Analyst\",\"Id\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"value\":\"267d3b17-e168-4f76-a7e7-932e3eec7ad6\",\"displayValue\":\"Analyst\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"693fe530-cba5-4620-841a-27efd6b94286\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"0402d69b-8783-47ba-8d05-66562fa16a2e\"}}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Contact\"}"
+                    }
+                  },
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "20b34023-20ad-475b-8f41-1e23efa82f47",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "7be561b9-98d4-a2fb-ea1c-08d6fa7cd18d",
+                      "BRX1": "UsrSalesRef"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "9be33cef-6187-05c3-d6de-395f43a4ce41",
+                      "BVE1": "{\"items\":{\"5249fcd4-dcf5-416c-b9f7-ef7bd73f7e03\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysAdminUnit:Contact].Id\",\"subFilters\":{\"items\":{\"514b473d-60fe-4ed8-8e7f-49b48664aa0b\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"7f91e60a-a7de-4c53-a9c2-4b88317236f2\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales\",\"Id\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"value\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"displayValue\":\"Sales\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales Department\",\"Id\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"value\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"displayValue\":\"Sales Department\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"76617606-0b91-4fbe-9e34-0454717c690a\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"7f91e60a-a7de-4c53-a9c2-4b88317236f2\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales\",\"Id\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"value\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"displayValue\":\"Sales\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales Department\",\"Id\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"value\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"displayValue\":\"Sales Department\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"76617606-0b91-4fbe-9e34-0454717c690a\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"d7f0e86c-8910-44fd-a690-1aa0fb29e82a\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"514b473d-60fe-4ed8-8e7f-49b48664aa0b\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"7f91e60a-a7de-4c53-a9c2-4b88317236f2\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales\",\"Id\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"value\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"displayValue\":\"Sales\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales Department\",\"Id\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"value\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"displayValue\":\"Sales Department\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"76617606-0b91-4fbe-9e34-0454717c690a\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"7f91e60a-a7de-4c53-a9c2-4b88317236f2\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales\",\"Id\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"value\":\"5e01063b-b7c5-4a1e-8763-d1ce924aed67\",\"displayValue\":\"Sales\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Sales Department\",\"Id\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"value\":\"4be9c4bb-8e79-4539-9173-17c8a766b671\",\"displayValue\":\"Sales Department\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"76617606-0b91-4fbe-9e34-0454717c690a\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"d7f0e86c-8910-44fd-a690-1aa0fb29e82a\"}}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Contact\"}"
+                    }
+                  },
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetFilter",
+                    "UId": "e3c489ed-30c8-641b-2f2d-b45bbbce27f7",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "8a527ba2-df7f-7aad-e0fe-0a2564a0309a",
+                      "BRX1": "UsrLeadTech"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "f5282950-7686-9e03-8240-57071772cb49",
+                      "BVE1": "{\"items\":{\"d8a9899e-a88b-4d65-a95e-53b044743f2a\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysAdminUnit:Contact].Id\",\"subFilters\":{\"items\":{\"ed2532f0-daa0-47f9-b8e4-977602387ba6\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"bd5ffeff-2a4c-4ad0-a68c-763db4f6ea9d\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Developer\",\"Id\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"value\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"displayValue\":\"Developer\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Studio\",\"Id\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"value\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"displayValue\":\"Studio\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"417d7de9-1b03-496c-9d99-ca7e7f9db50b\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"bd5ffeff-2a4c-4ad0-a68c-763db4f6ea9d\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Developer\",\"Id\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"value\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"displayValue\":\"Developer\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Studio\",\"Id\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"value\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"displayValue\":\"Studio\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"417d7de9-1b03-496c-9d99-ca7e7f9db50b\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"869e1bc4-436d-4d40-a208-3a705ef48acb\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"ed2532f0-daa0-47f9-b8e4-977602387ba6\":{\"filterType\":1,\"comparisonType\":7,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":3,\"functionType\":2,\"aggregationType\":1,\"columnPath\":\"[SysUserInRole:SysUser].Id\",\"subFilters\":{\"items\":{\"bd5ffeff-2a4c-4ad0-a68c-763db4f6ea9d\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Developer\",\"Id\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"value\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"displayValue\":\"Developer\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Studio\",\"Id\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"value\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"displayValue\":\"Studio\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"417d7de9-1b03-496c-9d99-ca7e7f9db50b\"}},\"isAggregative\":true,\"dataValueType\":4,\"rightExpression\":{\"expressionType\":2,\"parameter\":{\"dataValueType\":4,\"value\":0}},\"subFilters\":{\"items\":{\"bd5ffeff-2a4c-4ad0-a68c-763db4f6ea9d\":{\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"expressionType\":0,\"columnPath\":\"SysRole\"},\"isAggregative\":false,\"dataValueType\":10,\"referenceSchemaName\":\"SysAdminUnit\",\"rightExpressions\":[{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Developer\",\"Id\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"value\":\"ef35155c-c7db-485d-a9b1-b6a1f7d23412\",\"displayValue\":\"Developer\"}}},{\"expressionType\":2,\"parameter\":{\"dataValueType\":10,\"value\":{\"Name\":\"Studio\",\"Id\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"value\":\"cf7b8e27-b68e-4b7f-8acc-0e26d28f30c0\",\"displayValue\":\"Studio\"}}}]}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysUserInRole\",\"key\":\"417d7de9-1b03-496c-9d99-ca7e7f9db50b\"}}},\"logicalOperation\":1,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"SysAdminUnit\",\"key\":\"869e1bc4-436d-4d40-a208-3a705ef48acb\"}}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"Contact\"}"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "274d977a-7624-fc21-a17d-88c727f1c53b",
+                "BRT2": 2
+              }
+            ],
+            "BR3": "BusinessRule_5b77a5f"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "cc5802fb-d31d-b274-3be4-d27e83218671",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "0299c66d-f4ca-6658-6573-30965681c92c",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleGroupCondition",
+                  "UId": "47ab5646-b6e6-3a93-5f7b-e752af4371e3",
+                  "BGC1": 1,
+                  "BGC2": [
+                    {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                      "UId": "6225c576-48b9-e82c-3a63-71bcaa8215df",
+                      "BCO1": {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                        "UId": "13436ba0-59d0-fc04-288f-5512c9f959b8",
+                        "BRE1": "Lookup",
+                        "BRE2": "AttributeValue",
+                        "BRX1": "UsrCustomer"
+                      },
+                      "BCO3": 1
+                    }
+                  ]
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionFilterLookup",
+                    "UId": "5b17fc72-cec3-9b6d-e6a0-646972ee89d6",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "265ceac8-0ded-471d-95de-72bbf44c6a2b"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "08210cf8-0a2f-412a-8daf-748622558aec"
+                    },
+                    "BSFL1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "e8b7eab4-46e6-981f-76fb-34bc5869ff29",
+                      "BRE1": "Lookup",
+                      "BRE3": "Contact",
+                      "BVP1": "UsrCustomerRef",
+                      "BVF1": "Account"
+                    },
+                    "BSFR1": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleFilterLookupExpression",
+                      "UId": "2644bd42-8dd1-56da-63b1-57026100b595",
+                      "BRE1": "Lookup",
+                      "BRE3": "Account",
+                      "BVP1": "UsrCustomer",
+                      "BVF1": "null"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "9e0a2a66-3ed8-c6fe-1665-1fdbd5e1ebc2",
+                "BRT2": 2
+              },
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "14a6a734-f28e-0874-c417-7fd0a59a4e04",
+                "BRT1": "UsrCustomer"
+              }
+            ],
+            "BR3": "BusinessRule_4e0ec77"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "bee95487-7cbb-4773-9dd3-bdda659946cb",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "3d257cbc-6658-342f-4442-240f23147529",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "070f2dba-6056-1a96-4adb-a51cc344480f",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "5e018770-7541-bc20-c13d-34499372ab3e",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "UsrCustomer"
+                  },
+                  "BCO2": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "d05c4684-d190-4c3f-108f-6c2082117061",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "UsrCustomerRef.Account"
+                  },
+                  "BCO3": 3
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "4f5c83c8-06b5-46e0-3e05-14ea2a4efcfb",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "6199569e-cbca-4694-bf8d-0adae8ebbdcb"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "4fa91e75-dbad-4207-bcdc-96691348b2cf"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "e9327e43-e9b8-081e-2e21-ccfd87aeeec8",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "0b15334d-220d-3b74-46ac-a8361efec3f3",
+                          "BRE1": "Lookup",
+                          "BRX1": "UsrCustomerRef",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleEmptyValueExpression",
+                          "UId": "681178a2-ff29-eef2-0920-379fbdb8aa64",
+                          "BRE1": "Lookup",
+                          "BVE1": "00000000-0000-0000-0000-000000000000"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "ac3171b6-d0f6-154c-b438-7ebe1e718f2f",
+                "BRT1": "UsrCustomer"
+              }
+            ],
+            "BR3": "Autogenerated_cc5802fb-d31d-b274-3be4-d27e83218671_ClearValue",
+            "BR5": "cc5802fb-d31d-b274-3be4-d27e83218671",
+            "BR6": "5b17fc72-cec3-9b6d-e6a0-646972ee89d6"
+          },
+          {
+            "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",
+            "UId": "77ed0d67-683c-10e4-eecd-3eda7279ad6b",
+            "BR1": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.BusinessRuleCase",
+                "UId": "5f07d752-61dd-cd68-a1cf-f4fbe68ba015",
+                "BRC1": {
+                  "JI0": "Terrasoft.Core.BusinessRules.Models.Conditions.BusinessRuleCondition",
+                  "UId": "52c6b032-ed6a-d64b-0274-e62a366061c0",
+                  "BCO1": {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                    "UId": "44e250ec-a30d-2fa2-53e8-7946f74bd500",
+                    "BRE2": "AttributeValue",
+                    "BRX1": "UsrCustomerRef"
+                  },
+                  "BCO3": 1
+                },
+                "BRC2": [
+                  {
+                    "JI0": "Terrasoft.Core.BusinessRules.Models.Actions.BusinessRuleActionSetValues",
+                    "UId": "26d30e0c-751f-c277-2a35-c17b3bd000c4",
+                    "BRA2": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                      "UId": "cb051e66-d410-43cb-80a2-1b097e1b3a56"
+                    },
+                    "BRA3": {
+                      "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleValueExpression",
+                      "UId": "5fa6e7a9-4bfd-4fd5-813f-da92f3506c9b"
+                    },
+                    "BSVS1": [
+                      {
+                        "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleSetValueItem",
+                        "UId": "fe507e9b-a902-d9c3-a201-abf00ef23d5e",
+                        "BRA2": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "0a0a30d9-981d-423f-694e-1cd76701e453",
+                          "BRX1": "UsrCustomer",
+                          "BRX2": "null"
+                        },
+                        "BRA3": {
+                          "JI0": "Terrasoft.Core.BusinessRules.Models.Expressions.BusinessRuleAttributeExpression",
+                          "UId": "e189ee27-c99f-4391-c6ef-5244235775a1",
+                          "BRE1": "Lookup",
+                          "BRE2": "AttributeValue",
+                          "BRE3": "Account",
+                          "BRX1": "UsrCustomerRef.Account"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "BR2": [
+              {
+                "JI0": "Terrasoft.Core.BusinessRules.Models.Trigger",
+                "UId": "7eb72800-501d-0731-f0cc-b1b4d499ecee",
+                "BRT1": "UsrCustomerRef"
+              }
+            ],
+            "BR3": "Autogenerated_cc5802fb-d31d-b274-3be4-d27e83218671_PopulateValue",
+            "BR5": "cc5802fb-d31d-b274-3be4-d27e83218671",
+            "BR6": "5b17fc72-cec3-9b6d-e6a0-646972ee89d6"
+          }
+        ]
+      }
+    }
+  }
+}

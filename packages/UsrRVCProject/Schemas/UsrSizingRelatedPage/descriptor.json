@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ccf32f0-82c1-4bb0-bce6-b326d4075ce2",
+    "Name": "UsrSizingRelatedPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sizing (Page settings)",
+    "DependsOn": []
+  }
+}

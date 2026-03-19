@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RVC Project form page" />
+			<Item Name="LocalizableStrings.Button_0amcais_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_0tp7u1b_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.Button_1ann1m8_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.Button_1i7kv07_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_38qfnmu_caption.Value" Value="Init Sizing" />
+			<Item Name="LocalizableStrings.Button_3h7mgx3_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_dogfw7o_caption.Value" Value="Add Record" />
+			<Item Name="LocalizableStrings.Button_fwne6o9_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_ifmqxcr_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_nul7pgp_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_pdb2fo0_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_rf5tnj3_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Button_vypr0e6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_xgsrblx_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.Button_y4dkom7_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.DataGrid_8y39725DS_UsrIssueTypeName.Value" Value="Type" />
+			<Item Name="LocalizableStrings.DataGrid_8y39725DS_UsrOwnerName.Value" Value="Owner" />
+			<Item Name="LocalizableStrings.DataGrid_wrej71lDS_UsrRole_Name.Value" Value="Role" />
+			<Item Name="LocalizableStrings.DataGrid_wrej71lDS_UsrRole_UsrSizingItemEffortUsrSizingRole_UsrEffort_zxmk0lz.Value" Value="Effort Sum of values" />
+			<Item Name="LocalizableStrings.DataGrid_wrej71lDS_UsrSizingToolUsrEpic_UsrEstimatedTime_w20deee.Value" Value="Estimated Time Sum of values" />
+			<Item Name="LocalizableStrings.DataGrid_wrej71lDS_UsrSizingToolUsrEpic_UsrRole_Name_j6auxy0.Value" Value="Name (the first record value)" />
+			<Item Name="LocalizableStrings.DataGrid_wrej71lDS__qmdcrxb.Value" Value="Estimated Time Sum of values" />
+			<Item Name="LocalizableStrings.ExpansionPanel_09hpzef_title.Value" Value="Open Sprints" />
+			<Item Name="LocalizableStrings.ExpansionPanel_0muq1wt_title.Value" Value="Open Issues" />
+			<Item Name="LocalizableStrings.ExpansionPanel_3l7ovaq_title.Value" Value="Issues History" />
+			<Item Name="LocalizableStrings.ExpansionPanel_jhwhxem_title.Value" Value="Support Type" />
+			<Item Name="LocalizableStrings.ExpansionPanel_mzx4gfn_title.Value" Value="Sprints &amp; Release History" />
+			<Item Name="LocalizableStrings.ExpansionPanel_psbkrxd_title.Value" Value="Epics" />
+			<Item Name="LocalizableStrings.ExpansionPanel_qrmz0as_title.Value" Value="Open Releases" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ro5e4jy_title.Value" Value="Docs" />
+			<Item Name="LocalizableStrings.ExpansionPanel_u0zb5l4_title.Value" Value="Epics" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_5ixyvbx_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_7hyyfod_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_fndmntp_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_jg30qrv_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_aelbt9i_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_bpbpupr_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_hvkkh8s_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ok50o0f_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_7choxva_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_9cnwaee_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_gaxnw14_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_hjrhu5w_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_25wr0xt_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_avqx3l6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_kb5onpz_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ukb0ofo_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_bsj33yd_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_oleawzy_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_rq0qm38_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_t7zuqfl_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_6mbq0zi_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_8xtbj54_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_pz0dfcp_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_rc9ei6y_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetail_9ilj70tDS_UsrIssueTypeName.Value" Value="Type" />
+			<Item Name="LocalizableStrings.GridDetail_9ilj70tDS_UsrOwnerName.Value" Value="Owner" />
+			<Item Name="LocalizableStrings.MenuItem_3qzcmem_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.MenuItem_7sjvw31_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_j0x4bqn_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.MenuItem_kf8rxsx_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_lm8skvm_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.MenuItem_tlxz4xd_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.MenuItem_vei4i25_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.MenuItem_vmwhh0w_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.PsgDelete.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.PsgDeleteConfirmationMessage.Value" Value="Are you sure that you want to delete the selected record?" />
+			<Item Name="LocalizableStrings.PsgPreview.Value" Value="Preview" />
+			<Item Name="LocalizableStrings.SearchFilter_g8aqaly_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.SearchFilter_i1t2yxt_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.SearchFilter_kbcrxej_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.SearchFilter_ng69ej8_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.TabContainer_1k68bu9_caption.Value" Value="DEVELOPMENTS" />
+			<Item Name="LocalizableStrings.TabContainer_b2zw6va_caption.Value" Value="Documents" />
+			<Item Name="LocalizableStrings.TabContainer_bca8j54_caption.Value" Value="Issues" />
+			<Item Name="LocalizableStrings.TabContainer_vsy0tzh_caption.Value" Value="SIZING" />
+			<Item Name="LocalizableStrings.addRecord_7watpc6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hplggl6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_m887myi_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_njvsjjn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oed38i0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t0ov4a1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vvmx1cg_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

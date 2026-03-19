@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "23fb6741-5baf-417f-b383-4864cb70dd22",
+    "Name": "UsrProcess_4ececaa",
+    "ModifiedOnUtc": "\/Date(1769812874000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Check Sizing Tool",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "af87d32a-20b8-4809-ace8-6643329527d8",
+    "Name": "UsrRVCProject_Detail",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RVC Project detail",
+    "DependsOn": []
+  }
+}

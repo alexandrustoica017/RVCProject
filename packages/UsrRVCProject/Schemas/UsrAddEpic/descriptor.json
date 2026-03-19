@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "70e3de5c-c41d-4a7e-9686-f935576cbefd",
+    "Name": "UsrAddEpic",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "AddEpic",
+    "DependsOn": []
+  }
+}

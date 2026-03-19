@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d281d258-8162-4832-bfb7-67e1b9a80d1d",
+    "Name": "UsrProcess_5af80b3",
+    "ModifiedOnUtc": "\/Date(1772671944000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Init Tuning Loader",
+    "DependsOn": []
+  }
+}

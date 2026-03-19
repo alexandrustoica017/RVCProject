@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Document" />
+			<Item Name="Columns.UsrActualTime.Caption" Value="Actual Time" />
+			<Item Name="Columns.UsrCommitedTime.Caption" Value="Commited Time" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrDescription.Description" Value="Description" />
+			<Item Name="Columns.UsrDocType.Caption" Value="Document Type" />
+			<Item Name="Columns.UsrDocType.Description" Value="Document Type" />
+			<Item Name="Columns.UsrExisting.Caption" Value="Existing" />
+			<Item Name="Columns.UsrExisting.Description" Value="Existing" />
+			<Item Name="Columns.UsrFileURL.Caption" Value="FileURL" />
+			<Item Name="Columns.UsrFileURL.Description" Value="FileURL" />
+			<Item Name="Columns.UsrIssue.Caption" Value="Issue" />
+			<Item Name="Columns.UsrIssue.Description" Value="Issue" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrName.Description" Value="Name" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Owner" />
+			<Item Name="Columns.UsrOwner.Description" Value="Owner" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+			<Item Name="Columns.UsrRelatedEpic.Caption" Value="Related Epic" />
+			<Item Name="Columns.UsrRelatedEpic.Description" Value="Related Epic" />
+			<Item Name="Description" Value="Document" />
+		</Items>
+	</Group>
+</Resources>

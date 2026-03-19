@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0f674138-f022-4552-b223-4fe6dc804667",
+    "Name": "UsrMergeRule",
+    "ModifiedOnUtc": "\/Date(1766426561000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "MergeRule",
+    "DependsOn": []
+  }
+}

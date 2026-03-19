@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a0b7082-4eaa-418b-8f4d-44b60ff842d6",
+    "Name": "UsrRequireIssuesCompleted",
+    "ModifiedOnUtc": "\/Date(1747694255000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Require Issues Completed",
+    "DependsOn": []
+  }
+}

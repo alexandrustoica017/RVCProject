@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d49480f-3ad5-485f-87f0-fa4ff7347672",
+    "Name": "UsrSizingEstimationRuleRelatedPage",
+    "ModifiedOnUtc": "\/Date(1767917794000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sizing Estimation Rule (Page settings)",
+    "DependsOn": []
+  }
+}

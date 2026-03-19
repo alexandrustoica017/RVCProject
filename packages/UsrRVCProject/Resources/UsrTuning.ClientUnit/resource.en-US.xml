@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tuning Page" />
+			<Item Name="LocalizableStrings.Button_yox6sut_caption.Value" Value="Close" />
+			<Item Name="LocalizableStrings.Label_3k8btu6_caption.Value" Value="Tuning  Parameters" />
+			<Item Name="LocalizableStrings.TabContainer_0lspq1h_caption.Value" Value="Profiles" />
+			<Item Name="LocalizableStrings.TabContainer_6a22rbt_caption.Value" Value="Maturity" />
+			<Item Name="LocalizableStrings.TabContainer_iys3mxq_caption.Value" Value="Reports &amp; SLA" />
+			<Item Name="LocalizableStrings.TabContainer_o8lt15a_caption.Value" Value="Support" />
+			<Item Name="LocalizableStrings.TabContainer_yy5nv47_caption.Value" Value="Case Type" />
+			<Item Name="LocalizableStrings.TabContainer_z6j4tqc_caption.Value" Value="Interfaces" />
+			<Item Name="LocalizableStrings.addRecord_iwakg1b_caption.Value" Value="Add new" />
+			<Item Name="Parameters.819a9670-1e40-6fd4-513d-961c3199465d.Caption" Value="Project" />
+		</Items>
+	</Group>
+</Resources>

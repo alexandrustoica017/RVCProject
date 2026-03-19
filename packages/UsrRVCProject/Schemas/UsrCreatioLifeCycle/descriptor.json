@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f5f622cb-50a0-46c7-9594-9825080b1dd1",
+    "Name": "UsrCreatioLifeCycle",
+    "ModifiedOnUtc": "\/Date(1747779073000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Creatio Life Cycle",
+    "DependsOn": []
+  }
+}

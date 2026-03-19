@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Contract" />
+			<Item Name="Columns.Document.Caption" Value="Document" />
+			<Item Name="Columns.Invoice.Caption" Value="Factura" />
+			<Item Name="Columns.Order.Caption" Value="Comandă" />
+		</Items>
+	</Group>
+</Resources>

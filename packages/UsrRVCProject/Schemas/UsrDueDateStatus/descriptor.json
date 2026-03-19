@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d9f726fe-125b-4b5d-9206-232d15f601b0",
+    "Name": "UsrDueDateStatus",
+    "ModifiedOnUtc": "\/Date(1753984471000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Due Date Status",
+    "DependsOn": []
+  }
+}

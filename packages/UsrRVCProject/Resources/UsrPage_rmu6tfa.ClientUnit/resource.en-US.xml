@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Issue form page" />
+			<Item Name="LocalizableStrings.DataGrid_54m7383DS_UsrName.Value" Value="In Progress" />
+			<Item Name="LocalizableStrings.DataGrid_5gohz5aDS_UsrName.Value" Value="In testing" />
+			<Item Name="LocalizableStrings.DataGrid_9c3y3dfDS_UsrName.Value" Value="Ended" />
+			<Item Name="LocalizableStrings.DataGrid_cosmoqcDS_UsrName.Value" Value="New" />
+			<Item Name="LocalizableStrings.ExpansionPanel_0o646sj_title.Value" Value="User Stories" />
+			<Item Name="LocalizableStrings.ExpansionPanel_dcnxxo3_title.Value" Value="Related Documents" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ey95sag_title.Value" Value="Development documents" />
+			<Item Name="LocalizableStrings.ExpansionPanel_z6v92sl_title.Value" Value="Fake Kanban" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_9gygz6c_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_j9j0rn8_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_l215fqu_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_178jlmr_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_d8ktams_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_rh6hh30_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_7obsec3_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_bp1etk1_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_i0yqgkl_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_311rhy2_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_r75bypx_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_v493qgb_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_ld1ewv0_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_o0zk1ca_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_tyx8hs5_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_30l1v7k_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_auyx4vb_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_rzphj4x_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_d33873m_caption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.TabContainer_h0uo85i_caption.Value" Value="Sprint Development" />
+			<Item Name="LocalizableStrings.addRecord_1nxf5y0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_47or7ou_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ckonrs7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jehkjs6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lfdz8dy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_o0u7zyk_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

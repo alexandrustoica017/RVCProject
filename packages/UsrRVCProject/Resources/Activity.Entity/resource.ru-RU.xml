@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Contract" />
+			<Item Name="Columns.Document.Caption" Value="Документ" />
+			<Item Name="Columns.Invoice.Caption" Value="Счет" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Статья базы знаний" />
+			<Item Name="Columns.Order.Caption" Value="Заказ" />
+			<Item Name="Columns.UsrUsrIssue.Caption" Value="Объект" />
+			<Item Name="Columns.UsrUsrRVCProject.Caption" Value="RVC Project" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Lanes.Lane_5f6cb908f09b453d8f21d5590e55940b.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

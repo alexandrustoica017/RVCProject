@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7f34bb56-47c2-4d12-9d3f-821feb8b7bf9",
+    "Name": "UsrPage_rmu6tfaBusinessRule",
+    "ModifiedOnUtc": "\/Date(1767036363000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Issue form page (Business rules)",
+    "DependsOn": []
+  }
+}

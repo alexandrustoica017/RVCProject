@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "052900fc-0d32-438c-ae58-c9e45fa9867b",
+      "A2": "UsrRVCIssueSectionRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "a00bef71-5b8e-40ce-ba06-f3cd839bd513",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "5abfbee0-7628-4a0c-8950-2414a2677a24",
+            "PageSchemaUId": "47e8faec-14cb-423d-8da4-09c5590156a4",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

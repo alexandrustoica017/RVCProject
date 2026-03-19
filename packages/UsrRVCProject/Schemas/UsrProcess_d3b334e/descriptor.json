@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6064200c-b493-489a-b99b-710c172d1c4b",
+    "Name": "UsrProcess_d3b334e",
+    "ModifiedOnUtc": "\/Date(1763597229000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "GetRootIssue",
+    "DependsOn": []
+  }
+}

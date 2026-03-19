@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Creatio Life Cycle" />
+			<Item Name="Description" Value="Creatio Project  Life Cycle" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="PreSales" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.Caption" Value="Preliminary" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.CreateTask.Caption" Value="Project" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.CreateTask.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.CreateTask.Sys_Description" Value="Project" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.IssueType.Caption" Value="Issue Type" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.IssueType.DisplayValue" Value="[#Lookup.Issue Type.Preliminary.dd9f56c4-7d39-47f9-8bbf-6aa6d54c986e#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.IssueType.Sys_Description" Value="Issue Type" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Caption" Value="Owner" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#Main record.Sales Reference#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement6.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Sys_Description" Value="Owner" />
+			<Item Name="Stages.Stage2.Caption" Value="Discovery" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.Caption" Value="Create HLD" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.CreateTask.Caption" Value="Project" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.CreateTask.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.CreateTask.Sys_Description" Value="Project" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.IssueType.Caption" Value="Issue Type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.IssueType.DisplayValue" Value="[#Lookup.Issue Type.HLD.e6a5d39d-4cf0-4a5e-b9bb-c277ea1a9b68#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.IssueType.Sys_Description" Value="Issue Type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Caption" Value="Owner" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#Main record.Lead Analyst#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Sys_Description" Value="Owner" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.Caption" Value="Create Sizing" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.CreateTask.Caption" Value="Project" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.CreateTask.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.CreateTask.Sys_Description" Value="Project" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.IssueType.Caption" Value="Issue Type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.IssueType.DisplayValue" Value="[#Lookup.Issue Type.Sizing.4d85c5e6-c396-4c50-90ca-d2adb43df878#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.IssueType.Sys_Description" Value="Issue Type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Caption" Value="Owner" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.ProcessSchemaParameter1.DisplayValue" Value="[#Main record.Lead Analyst#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement2.ProcessFlowElement.Parameters.ProcessSchemaParameter1.Sys_Description" Value="Owner" />
+			<Item Name="Stages.Stage3.Caption" Value="KickOff" />
+			<Item Name="Stages.Stage4.Caption" Value="Development" />
+			<Item Name="Stages.Stage6.Caption" Value="PostSales" />
+		</Items>
+	</Group>
+</Resources>

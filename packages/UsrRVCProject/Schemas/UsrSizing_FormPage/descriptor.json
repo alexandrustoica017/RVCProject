@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "52352e4d-0522-44fe-aefa-abfbc5ba3827",
+    "Name": "UsrSizing_FormPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Sizing form page",
+    "DependsOn": []
+  }
+}

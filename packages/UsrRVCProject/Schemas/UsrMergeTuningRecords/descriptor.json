@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ec9e65d2-6c0b-4fd6-8018-ceb576f8c2f9",
+    "Name": "UsrMergeTuningRecords",
+    "ModifiedOnUtc": "\/Date(1772671931000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Merge Tuning Records",
+    "DependsOn": []
+  }
+}

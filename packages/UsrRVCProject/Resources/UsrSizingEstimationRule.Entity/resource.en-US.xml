@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sizing Estimation Rule" />
+			<Item Name="Columns.UsrBaseTime.Caption" Value="Effort time" />
+			<Item Name="Columns.UsrComplexityID.Caption" Value="Complexity" />
+			<Item Name="Columns.UsrDesc.Caption" Value="Desc" />
+			<Item Name="Columns.UsrDesc.Description" Value="Desc" />
+			<Item Name="Columns.UsrItemTypeID.Caption" Value="Item type" />
+			<Item Name="Columns.UsrMaturity.Caption" Value="Maturity" />
+			<Item Name="Columns.UsrMaturity.Description" Value="Maturity" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+			<Item Name="Description" Value="Sizing Estimation Rule" />
+		</Items>
+	</Group>
+</Resources>

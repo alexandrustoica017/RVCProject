@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "60c121b8-6b72-4c1a-9225-ca853c137467",
+    "Name": "UsrSizingToolBusinessRule",
+    "ModifiedOnUtc": "\/Date(1766172776000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sizing Tool (Business rules)",
+    "DependsOn": []
+  }
+}

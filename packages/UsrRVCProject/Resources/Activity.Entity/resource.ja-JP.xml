@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="契約" />
+			<Item Name="Columns.Document.Caption" Value="ドキュメント" />
+			<Item Name="Columns.Invoice.Caption" Value="請求書" />
+			<Item Name="Columns.Order.Caption" Value="受注" />
+		</Items>
+	</Group>
+</Resources>

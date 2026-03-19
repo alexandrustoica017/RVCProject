@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SizingItemEffort" />
+			<Item Name="Columns.UsrEffort.Caption" Value="Effort" />
+			<Item Name="Columns.UsrEffort.Description" Value="Effort" />
+			<Item Name="Columns.UsrSizingItem.Caption" Value="SizingItem" />
+			<Item Name="Columns.UsrSizingItem.Description" Value="SizingItem" />
+			<Item Name="Columns.UsrSizingRole.Caption" Value="SizingRole" />
+			<Item Name="Columns.UsrSizingRole.Description" Value="SizingRole" />
+			<Item Name="Description" Value="Sizing Item Effort" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

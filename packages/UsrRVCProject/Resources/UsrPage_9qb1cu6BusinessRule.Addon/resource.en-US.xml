@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.15854d06-cd3c-f5ea-6640-b9176d4dc1b0.Caption" Value="Type and parent issue read only" />
+			<Item Name="AddonConfig.Rules.ff76b969-339c-0a50-85c0-27ccd5452348.Caption" Value="Delivery date management" />
+			<Item Name="Caption" Value="Issue modal page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

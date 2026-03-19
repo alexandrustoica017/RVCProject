@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3902f291-f4a7-429a-a3bf-c165713563b1",
+    "Name": "UsrDocumentRelatedPage",
+    "ModifiedOnUtc": "\/Date(1747412040000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Document (Page settings)",
+    "DependsOn": []
+  }
+}

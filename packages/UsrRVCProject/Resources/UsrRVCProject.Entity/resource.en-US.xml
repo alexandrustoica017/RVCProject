@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RVC Project" />
+			<Item Name="Columns.UsrCustomer.Caption" Value="Customer" />
+			<Item Name="Columns.UsrCustomer.Description" Value="Customer" />
+			<Item Name="Columns.UsrCustomerRef.Caption" Value="Customer Reference" />
+			<Item Name="Columns.UsrCustomerRef.Description" Value="Customer Reference" />
+			<Item Name="Columns.UsrLeadBA.Caption" Value="Lead Analyst" />
+			<Item Name="Columns.UsrLeadBA.Description" Value="Lead Business Analyst" />
+			<Item Name="Columns.UsrLeadTech.Caption" Value="Technical Leader" />
+			<Item Name="Columns.UsrLeadTech.Description" Value="Technical Leader" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPhase.Caption" Value="Current Phase" />
+			<Item Name="Columns.UsrPhase.Description" Value="Phase" />
+			<Item Name="Columns.UsrPhaseCompleted.Caption" Value="Phase Completed" />
+			<Item Name="Columns.UsrPhaseCompleted.Description" Value="Phase Completed" />
+			<Item Name="Columns.UsrProjectType.Caption" Value="ProjectType" />
+			<Item Name="Columns.UsrProjectType.Description" Value="ProjectType" />
+			<Item Name="Columns.UsrSalesRef.Caption" Value="Sales Reference" />
+			<Item Name="Columns.UsrSalesRef.Description" Value="Sales Reference" />
+			<Item Name="Columns.UsrSummary.Caption" Value="Summary" />
+			<Item Name="Columns.UsrSummary.Description" Value="Summary" />
+			<Item Name="Columns.UsrTestManager.Caption" Value="Test Manager" />
+			<Item Name="Columns.UsrTestManager.Description" Value="Test Manager" />
+		</Items>
+	</Group>
+</Resources>

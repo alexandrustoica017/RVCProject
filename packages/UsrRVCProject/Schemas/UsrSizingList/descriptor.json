@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6124f14d-fbe1-4e99-922c-7249d138fb06",
+    "Name": "UsrSizingList",
+    "ModifiedOnUtc": "\/Date(1767902464000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Rvc Sizing List Page",
+    "DependsOn": []
+  }
+}

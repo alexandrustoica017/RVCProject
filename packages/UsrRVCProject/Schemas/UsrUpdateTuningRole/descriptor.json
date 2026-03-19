@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "059561a5-3564-42ce-9cbf-fc6123c946f8",
+    "Name": "UsrUpdateTuningRole",
+    "ModifiedOnUtc": "\/Date(1772823828000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Tuning Role",
+    "DependsOn": []
+  }
+}

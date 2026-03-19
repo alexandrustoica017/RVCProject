@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "d06c1164-e9b7-4871-b0a1-b10fa5430de2",
+      "A2": "UsrRVCProjectRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "09cc4143-9305-4986-b11a-ef08d7f3170f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "ddb39491-8792-4848-90c0-f597034df723",
+            "PageSchemaUId": "c18deea9-4842-4306-9be7-db79d0b5cdd3",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

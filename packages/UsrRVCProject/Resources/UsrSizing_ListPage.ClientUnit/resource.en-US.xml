@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sizing list page" />
+			<Item Name="LocalizableStrings.Button_9p7moey_caption.Value" Value="Tune Sizing" />
+			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_series_0.Value" Value="Sizing Tool" />
+			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_title.Value" Value="Effort By Item Type" />
+			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_xAxis.Value" Value="Type" />
+			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_yAxis.Value" Value="Effort (days)" />
+			<Item Name="LocalizableStrings.ChartWidget_wz8bzkq_series_0.Value" Value="Sizing Tool" />
+			<Item Name="LocalizableStrings.ChartWidget_wz8bzkq_title.Value" Value="Effort By Role" />
+			<Item Name="LocalizableStrings.ExpansionPanel_eujfm9x_title.Value" Value="Expansion panel" />
+			<Item Name="LocalizableStrings.ExpansionPanel_lubimto_title.Value" Value="Sizing Tool" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_g0pqyow_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_mzgyxir_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_iokcgou_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_u26vo0r_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_lp4v9zh_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_gx43rl6_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.addRecord_x1g7t4y_caption.Value" Value="Add new" />
+			<Item Name="Parameters.9371c60d-2389-1e70-ccb1-5e03601c5d70.Caption" Value="Project" />
+		</Items>
+	</Group>
+</Resources>

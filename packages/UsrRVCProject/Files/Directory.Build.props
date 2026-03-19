@@ -1,0 +1,23 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrComplexity/UsrComplexity.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrComplexity/UsrComplexity.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrDocument/UsrDocument.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrDocument/UsrDocument.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrDocumentType/UsrDocumentType.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrDocumentType/UsrDocumentType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrDueDateStatus/UsrDueDateStatus.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrDueDateStatus/UsrDueDateStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrIssue/UsrIssue.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrIssue/UsrIssue.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrIssueStatus/UsrIssueStatus.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrIssueStatus/UsrIssueStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrIssueType/UsrIssueType.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrIssueType/UsrIssueType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrItemType/UsrItemType.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrItemType/UsrItemType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrLoadTuningEffort/UsrLoadTuningEffort.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrLoadTuningEffort/UsrLoadTuningEffort.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrMaturity/UsrMaturity.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrMaturity/UsrMaturity.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrMaturityRoleMultiplier/UsrMaturityRoleMultiplier.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrMaturityRoleMultiplier/UsrMaturityRoleMultiplier.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrPhase/UsrPhase.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrPhase/UsrPhase.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrProjectType/UsrProjectType.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrProjectType/UsrProjectType.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrRVCProject/UsrRVCProject.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrRVCProject/UsrRVCProject.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrSizingEstimationRule/UsrSizingEstimationRule.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrSizingEstimationRule/UsrSizingEstimationRule.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrSizingItemEffort/UsrSizingItemEffort.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrSizingItemEffort/UsrSizingItemEffort.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrSizingRole/UsrSizingRole.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrSizingRole/UsrSizingRole.cs')" />
+		<Compile Include="$(PkgPath)/UsrRVCProject/Schemas/UsrSizingTool/UsrSizingTool.cs" Condition="Exists('$(PkgPath)/UsrRVCProject/Schemas/UsrSizingTool/UsrSizingTool.cs')" />
+	</ItemGroup>
+</Project>

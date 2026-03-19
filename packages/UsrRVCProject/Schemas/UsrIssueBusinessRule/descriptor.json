@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c6fb6280-2059-4fdb-9c74-3fa9109cc896",
+    "Name": "UsrIssueBusinessRule",
+    "ModifiedOnUtc": "\/Date(1753292239000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Issue (Business rules)",
+    "DependsOn": []
+  }
+}

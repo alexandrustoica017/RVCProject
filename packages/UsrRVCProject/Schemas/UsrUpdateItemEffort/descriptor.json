@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "41089c81-646f-4c02-921e-f827f999e6e2",
+    "Name": "UsrUpdateItemEffort",
+    "ModifiedOnUtc": "\/Date(1773251295000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Item Effort",
+    "DependsOn": []
+  }
+}

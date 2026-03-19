@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RVCIssue" />
+			<Item Name="Columns.UsrActualDeliveryTime.Caption" Value="Actual delivery time (hours)" />
+			<Item Name="Columns.UsrAdditionalNote.Caption" Value="Additional notes" />
+			<Item Name="Columns.UsrColumn18.Caption" Value="Text 1" />
+			<Item Name="Columns.UsrComplexity.Caption" Value="Complexity" />
+			<Item Name="Columns.UsrComplexity.Description" Value="Complexity" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrDescription.Description" Value="Description" />
+			<Item Name="Columns.UsrDevActualTime.Caption" Value="DevActualTime" />
+			<Item Name="Columns.UsrDevActualTime.Description" Value="DevActualTime" />
+			<Item Name="Columns.UsrDevCommittedTime.Caption" Value="DevCommittedTime" />
+			<Item Name="Columns.UsrDevCommittedTime.Description" Value="DevCommittedTime" />
+			<Item Name="Columns.UsrDocsCompleted.Caption" Value="Docs Completed" />
+			<Item Name="Columns.UsrDocsCompleted.Description" Value="Docs Completed" />
+			<Item Name="Columns.UsrDueDate.Caption" Value="Due date" />
+			<Item Name="Columns.UsrDueDateStatus.Caption" Value="Due Date Status" />
+			<Item Name="Columns.UsrExpectedDeliveryTime.Caption" Value="Expected delivery time (hours)" />
+			<Item Name="Columns.UsrIsRoot.Caption" Value="IsRoot" />
+			<Item Name="Columns.UsrIsRoot.Description" Value="Root" />
+			<Item Name="Columns.UsrIssueType.Caption" Value="Issue Type" />
+			<Item Name="Columns.UsrIssueType.Description" Value="Issue Type" />
+			<Item Name="Columns.UsrItemType.Caption" Value="ItemType" />
+			<Item Name="Columns.UsrItemType.Description" Value="ItemType" />
+			<Item Name="Columns.UsrMaturity.Caption" Value="Maturity" />
+			<Item Name="Columns.UsrMaturity.Description" Value="Maturity" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrName.Description" Value="Name" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Owner" />
+			<Item Name="Columns.UsrOwner.Description" Value="Owner" />
+			<Item Name="Columns.UsrParent.Caption" Value="Parent Issue" />
+			<Item Name="Columns.UsrParent.Description" Value="Parent Issue" />
+			<Item Name="Columns.UsrProject.Caption" Value="Project" />
+			<Item Name="Columns.UsrProject.Description" Value="Project" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrStatus.Description" Value="Status" />
+			<Item Name="Description" Value="RVCIssue" />
+		</Items>
+	</Group>
+</Resources>

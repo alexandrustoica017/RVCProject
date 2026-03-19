@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Договір" />
+			<Item Name="Columns.Document.Caption" Value="Документ" />
+			<Item Name="Columns.Invoice.Caption" Value="Рахунок" />
+			<Item Name="Columns.Order.Caption" Value="Замовлення" />
+		</Items>
+	</Group>
+</Resources>

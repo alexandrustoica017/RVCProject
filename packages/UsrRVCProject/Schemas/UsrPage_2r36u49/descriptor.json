@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6310b59e-ad5b-4d3d-8d68-2409fec655da",
+    "Name": "UsrPage_2r36u49",
+    "ModifiedOnUtc": "\/Date(1747785702000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Document modal page",
+    "DependsOn": []
+  }
+}

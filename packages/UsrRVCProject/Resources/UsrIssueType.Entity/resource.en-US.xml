@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Issue Type" />
+			<Item Name="Columns.UsrRelatedPhase.Caption" Value="Related Phase" />
+			<Item Name="Columns.UsrRelatedPhase.Description" Value="Related Phase" />
+			<Item Name="Description" Value="Issue Type" />
+		</Items>
+	</Group>
+</Resources>

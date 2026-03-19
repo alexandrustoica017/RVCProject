@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Contract.Caption" Value="Līgums" />
+			<Item Name="Columns.Document.Caption" Value="Dokuments" />
+			<Item Name="Columns.Invoice.Caption" Value="Rēķins" />
+			<Item Name="Columns.Order.Caption" Value="Pasūtījums" />
+		</Items>
+	</Group>
+</Resources>

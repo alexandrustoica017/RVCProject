@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sizing form page" />
+			<Item Name="LocalizableStrings.Button_v8s8q7h_caption.Value" Value="Calculate" />
+			<Item Name="LocalizableStrings.TabAdditionalNotes_caption.Value" Value="Additional Notes" />
+			<Item Name="LocalizableStrings.addRecord_7igztj3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_bmqmfdr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_cew7uuo_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ktnsra3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rkm4bjr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_w18kgpj_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

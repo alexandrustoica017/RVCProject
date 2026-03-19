@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "809cbedf-f58c-4fc5-a8e4-6d4838153968",
+    "Name": "UsrDocumentType",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RVC Document Type",
+    "DependsOn": []
+  }
+}

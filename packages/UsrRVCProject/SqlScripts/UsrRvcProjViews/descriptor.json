@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "4c657745-c527-d495-f047-fd0082bf49fa",
+    "Name": "UsrRvcProjViews",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1755193122000)\/",
+    "BackwardCompatibilityConfirmed": true,
+    "DependsOn": []
+  }
+}

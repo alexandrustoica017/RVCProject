@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d1b84b2-cb3f-4321-8085-ddabfb57b012",
+    "Name": "UsrRVCProjectBusinessRule",
+    "ModifiedOnUtc": "\/Date(1769560807000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "RVC Project (Business rules)",
+    "DependsOn": []
+  }
+}

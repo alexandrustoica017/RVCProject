@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.a595dd1b-7e83-9f9d-cb41-7dbc48a9b7ea.Caption" Value="Get Epics" />
+			<Item Name="AddonConfig.Rules.a7523f10-53d4-056a-1994-a90323592a62.Caption" Value="ChildRule-a595dd1b-7e83-9f9d-cb41-7dbc48a9b7ea-ClearValue" />
+			<Item Name="AddonConfig.Rules.ba475fc9-08a5-53e4-b325-d10d06ed5a80.Caption" Value="ChildRule-a595dd1b-7e83-9f9d-cb41-7dbc48a9b7ea-PopulateValue" />
+			<Item Name="Caption" Value="Sizing Tool (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

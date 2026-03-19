@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.0af725d4-d61e-9c15-0d3a-bb4e7f649d36.Caption" Value="Dropdowns filtering" />
+			<Item Name="AddonConfig.Rules.77ed0d67-683c-10e4-eecd-3eda7279ad6b.Caption" Value="ChildRule-cc5802fb-d31d-b274-3be4-d27e83218671-PopulateValue" />
+			<Item Name="AddonConfig.Rules.bee95487-7cbb-4773-9dd3-bdda659946cb.Caption" Value="ChildRule-cc5802fb-d31d-b274-3be4-d27e83218671-ClearValue" />
+			<Item Name="AddonConfig.Rules.cc5802fb-d31d-b274-3be4-d27e83218671.Caption" Value="Customer Reference filter" />
+			<Item Name="Caption" Value="RVC Project (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

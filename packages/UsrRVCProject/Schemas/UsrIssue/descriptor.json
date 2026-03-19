@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a00bef71-5b8e-40ce-ba06-f3cd839bd513",
+    "Name": "UsrIssue",
+    "ModifiedOnUtc": "\/Date(1772834364000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RVCIssue",
+    "DependsOn": []
+  }
+}

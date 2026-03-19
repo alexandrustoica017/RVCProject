@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "43e6c1fd-290e-4c55-a958-29ca30b579a0",
+    "Name": "UsrComplexity",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Complexity",
+    "DependsOn": []
+  }
+}

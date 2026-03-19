@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d06c1164-e9b7-4871-b0a1-b10fa5430de2",
+    "Name": "UsrRVCProjectRelatedPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "RVC Project (Page settings)",
+    "DependsOn": []
+  }
+}

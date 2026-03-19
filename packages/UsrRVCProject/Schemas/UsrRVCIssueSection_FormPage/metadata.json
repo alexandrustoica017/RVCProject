@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "47e8faec-14cb-423d-8da4-09c5590156a4"
+= MetaData.Schema.A2 "UsrRVCIssueSection_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["75d97b32-cab6-4903-8b88-89a2b7b42dd0","0941d4cd-8f8c-419f-8f08-67e1eee2d48f","68362b3d-b791-4c72-9ab0-6fccdd78a84e","bf72a123-36aa-4499-a673-03895d59c1fb"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

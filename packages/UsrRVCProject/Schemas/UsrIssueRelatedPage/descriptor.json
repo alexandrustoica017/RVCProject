@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a033bbeb-13ce-4834-9c04-372fb23b8fe0",
+    "Name": "UsrIssueRelatedPage",
+    "ModifiedOnUtc": "\/Date(1747177051000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Issue (Page settings)",
+    "DependsOn": []
+  }
+}

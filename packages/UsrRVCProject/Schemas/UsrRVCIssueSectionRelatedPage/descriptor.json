@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "052900fc-0d32-438c-ae58-c9e45fa9867b",
+    "Name": "UsrRVCIssueSectionRelatedPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "RVC Issue (Page settings)",
+    "DependsOn": []
+  }
+}

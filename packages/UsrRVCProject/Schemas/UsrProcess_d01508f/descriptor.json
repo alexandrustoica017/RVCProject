@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "98e26df2-8261-4db3-bb30-4e012fdeb98b",
+    "Name": "UsrProcess_d01508f",
+    "ModifiedOnUtc": "\/Date(1766428998000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Merge with Complexity",
+    "DependsOn": []
+  }
+}

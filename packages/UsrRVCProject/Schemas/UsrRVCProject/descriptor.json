@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "09cc4143-9305-4986-b11a-ef08d7f3170f",
+    "Name": "UsrRVCProject",
+    "ModifiedOnUtc": "\/Date(1769560805000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RVC Project",
+    "DependsOn": []
+  }
+}

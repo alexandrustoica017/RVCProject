@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d08f8e6a-965a-44e1-bb1e-42c5b0cf8c97",
+    "Name": "UsrMaturity",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Maturity",
+    "DependsOn": []
+  }
+}

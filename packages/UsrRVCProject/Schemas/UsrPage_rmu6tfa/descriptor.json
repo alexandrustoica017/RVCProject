@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca919e7f-776a-4228-a844-4f16cff085b2",
+    "Name": "UsrPage_rmu6tfa",
+    "ModifiedOnUtc": "\/Date(1768261024000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Issue form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.56fde36d-adea-7120-ff6d-a96c60f560c5.Caption" Value="Show Progress Bar" />
+			<Item Name="AddonConfig.Rules.de27505d-eb57-8009-2734-478be11df860.Caption" Value="Hide Progress bar" />
+			<Item Name="AddonConfig.Rules.de4d4fed-d9ca-25c4-70d4-36be73cce252.Caption" Value="HideDev" />
+			<Item Name="AddonConfig.Rules.e7fd96b9-b015-bc81-a08b-699f05cc5a94.Caption" Value="ShowDev" />
+			<Item Name="Caption" Value="RVC Project form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

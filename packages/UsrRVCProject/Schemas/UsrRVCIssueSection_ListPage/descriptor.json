@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f00acb71-7b07-4d8d-aac6-cbc4d6ccc46f",
+    "Name": "UsrRVCIssueSection_ListPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RVC Issue list page",
+    "DependsOn": []
+  }
+}

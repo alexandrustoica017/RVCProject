@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.097e09d2-1d66-ff43-1f0f-9d234142f8a5.Caption" Value="Hide Notes tab" />
+			<Item Name="AddonConfig.Rules.19370f1e-7063-5263-d77c-ec7c425d64d3.Caption" Value="Issue Type read only" />
+			<Item Name="AddonConfig.Rules.4900fad9-27a2-e583-3978-1fb05dd960db.Caption" Value="Show US" />
+			<Item Name="AddonConfig.Rules.7954426a-671f-fa1b-4f2c-52cb11ff1e94.Caption" Value="Delivery time visibility" />
+			<Item Name="AddonConfig.Rules.a7412e56-744a-94e8-c9d0-6bf1b7c608a3.Caption" Value="HideUS" />
+			<Item Name="AddonConfig.Rules.f872328c-1a78-d37b-7178-1aaafa2a57cf.Caption" Value="Manage document and notes" />
+			<Item Name="Caption" Value="Issue form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

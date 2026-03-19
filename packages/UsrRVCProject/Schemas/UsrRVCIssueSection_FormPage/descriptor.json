@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "47e8faec-14cb-423d-8da4-09c5590156a4",
+    "Name": "UsrRVCIssueSection_FormPage",
+    "ModifiedOnUtc": "\/Date(1773918590000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "RVC Issue form page",
+    "DependsOn": []
+  }
+}

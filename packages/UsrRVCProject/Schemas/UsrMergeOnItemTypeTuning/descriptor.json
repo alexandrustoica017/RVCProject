@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8cd61400-147c-4206-bdad-75fdecd7f5d9",
+    "Name": "UsrMergeOnItemTypeTuning",
+    "ModifiedOnUtc": "\/Date(1772671936000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "MergeOnItemTypeTuning",
+    "DependsOn": []
+  }
+}

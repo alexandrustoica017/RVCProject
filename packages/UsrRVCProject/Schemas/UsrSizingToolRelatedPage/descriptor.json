@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "98c5bdec-50c8-448b-8b75-54514dc94215",
+    "Name": "UsrSizingToolRelatedPage",
+    "ModifiedOnUtc": "\/Date(1753997015000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sizing Tool (Page settings)",
+    "DependsOn": []
+  }
+}
