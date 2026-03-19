@@ -118,6 +118,21 @@ define("UsrSizing_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
+				"name": "Button_8io3mvs",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_8io3mvs_caption)#",
+					"color": "default",
+					"disabled": false,
+					"size": "large",
+					"iconPosition": "only-text"
+				},
+				"parentName": "LeftFilterContainer",
+				"propertyName": "items",
+				"index": 1
+			},
+			{
+				"operation": "insert",
 				"name": "ExpansionPanel_eujfm9x",
 				"values": {
 					"type": "crt.ExpansionPanel",

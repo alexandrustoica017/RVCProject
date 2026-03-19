@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Sizing list page" />
+			<Item Name="LocalizableStrings.Button_8io3mvs_caption.Value" Value="Button" />
 			<Item Name="LocalizableStrings.Button_9p7moey_caption.Value" Value="Tune Sizing" />
 			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_series_0.Value" Value="Sizing Tool" />
 			<Item Name="LocalizableStrings.ChartWidget_l1t6gqf_title.Value" Value="Effort By Item Type" />
