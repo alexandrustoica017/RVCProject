@@ -133,6 +133,22 @@ define("UsrSizing_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
+				"name": "Button_tid9c2b",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_tid9c2b_caption)#",
+					"color": "default",
+					"disabled": false,
+					"size": "large",
+					"iconPosition": "only-text",
+					"visible": true
+				},
+				"parentName": "LeftFilterContainer",
+				"propertyName": "items",
+				"index": 2
+			},
+			{
+				"operation": "insert",
 				"name": "ExpansionPanel_eujfm9x",
 				"values": {
 					"type": "crt.ExpansionPanel",

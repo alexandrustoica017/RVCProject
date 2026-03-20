@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "4e6cfb8d-8dbe-4217-b3f9-54de07cb9336",
     "Name": "UsrSizing_ListPage",
-    "ModifiedOnUtc": "\/Date(1773930182000)\/",
+    "ModifiedOnUtc": "\/Date(1773991491000)\/",
     "Parent": {
       "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
       "Name": "ListPageV2Template"
